@@ -18,7 +18,7 @@ var port     = process.env.PORT || 8080; // set our port
 
 // DATABASE SETUP
 var mongoose   = require('mongoose');
-var url = "mongodb://localhost:27017/mean2";
+var url = "mongodb://localhost:27017/browserbook";
 mongoose.connect(url); // connect to our database
 // Handle the connection event
 var db = mongoose.connection;
