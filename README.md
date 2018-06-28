@@ -1,6 +1,3 @@
-criado um  documento com o resumo da aplicação (objetivo, funcionalidades, limitações) e com comentários sobre os conceitos, recursos utilizados, dificuldades encontradas e percepções que considerar relevantes sobre o framework empregado no desenvolvimento backend.
-
-
 # BrowserBook - Back End
 ## A Social Media app that only works in your browser
 
